@@ -1,0 +1,36 @@
+body{
+    background-color: teal;
+}
+.dd{
+    justify-content: center;
+    background-color: white;
+    height: 500px;
+    width: 500px;
+    margin-left: 400px;
+    padding: 50px 50px 50px 50px ;
+}
+h2{
+    text-align: center;
+}
+#mai{
+    height: 40px;
+    width: 500px;
+}
+#pas{
+    height: 40px;
+    width: 500px;
+}
+#sub{
+
+background-color: aqua;
+    height: 40px;
+    width: 500px;
+    
+}
+p{
+    text-align: center;
+}
+a{
+    text-decoration:none;
+    color: brown;
+}
